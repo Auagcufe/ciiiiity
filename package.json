@@ -1,0 +1,14 @@
+{
+  "name": "china-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stecv",
+  "license": "ISC",
+  "dependencies": {
+    "china-division": "^2.3.1"
+  }
+}
